@@ -1,20 +1,19 @@
 <!-- Terminal-style Header -->
-<div align="center"> <h1 align="center">Hey there! I'm Ayesha Dawodi 👋</h1>
+<div align="center">
+  <h1 align="center">Hello, I'm Ayesha Dawodi 👋</h1>
+  <p align="center">
+    💻 Aspiring Software Engineer & Tech Enthusiast | 🌍 Passionate about People-First Innovation
+  </p>
+</div>
 
-<p align="center">
-  💻 Aspiring Software Engineer | 🚀 Tech Enthusiast | 🌍 Change Maker  
-</p>
+---
 
 ### 🧠 About Me
 
-- 👩‍💻 I’m passionate about **software development**, **mobile apps**, and leveraging **tech for social good**.
-- 🌱 Currently deepening my knowledge in:
-- Advanced **algorithms** & **data structures**
-- Full-stack development with **React**, **Java**, and **JavaScript**
-- 💡 I dream of building my tech company to create meaningful, people-first innovations.
-
-
-</div>
+- 💡 Passionate about building meaningful tech with real-world impact  
+- 🚀 I dream of launching my tech startup focused on **AI for social good**
+- 🛠️ Love creating projects that blend **function**, **creativity**, and **accessibility**
+- 🌱 Constantly learning and growing through code, challenges, and collaboration
 
 ---
 
