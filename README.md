@@ -50,7 +50,9 @@
 
 ### 🛠️ Projects You Might Like
 
-- 🔗 [**CollabText**](https://github.com/AyeshaDawodi/CollabText) – Real-time collaborative text editor built with JavaFX & Java sockets
+- 🔗 [**SkillSwap**](https://github.com/dlawiz83/SkillSwap) – Full-Stack Hackathon Project: Solo Developer | AlgoArena Hackathon 2025, Built a real-time learning match platform using React, Firebase, and Tailwind
+
+  
 
 ---
 
