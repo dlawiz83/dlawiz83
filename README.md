@@ -39,7 +39,7 @@
 
 ### 🛠️ Projects You Might Like
 
-- 🔗 [**SkillSwap**](https://github.com/dlawiz83/SkillSwap) – Full-Stack Hackathon Project: Solo Developer | Hackathon MVP for peer learning matches (React + Firebase + Tailwind)
+- 🔗 [**Connexta**](https://github.com/dlawiz83/Connexta) – Connexta (In Progress): Networking & Outreach Tracker – Full-Stack Developer
 
   
 
