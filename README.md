@@ -39,7 +39,7 @@
 
 ### 🛠️ Projects You Might Like
 
-- 🔗 [**Connexta**](https://github.com/dlawiz83/Connexta) – Connexta (In Progress): Networking & Outreach Tracker – Full-Stack Developer
+- 🔗 [**Connexta**](https://github.com/dlawiz83/Webmentor) – WebMentor — Learn Smarter on Any Webpage Google Chrome Built-in AI Challenge 2025.
 
   
 
