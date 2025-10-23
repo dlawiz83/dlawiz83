@@ -39,7 +39,7 @@
 
 ### 🛠️ Projects You Might Like
 
-- 🔗 [**Connexta**](https://github.com/dlawiz83/Webmentor) – WebMentor — Learn Smarter on Any Webpage Google Chrome Built-in AI Challenge 2025.
+- 🔗 [**WebMentor**](https://github.com/dlawiz83/Webmentor) – WebMentor — Learn Smarter on Any Webpage Google Chrome Built-in AI Challenge 2025.
 
   
 
